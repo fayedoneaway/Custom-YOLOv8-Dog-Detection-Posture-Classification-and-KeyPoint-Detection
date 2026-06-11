@@ -1,0 +1,17 @@
+# Ignore Libraries
+Lib/
+
+# Ignore virtual environments
+venv1
+Scripts/
+pyvenv.cfg
+.share/
+.idea
+
+# datasets
+training/images.tar
+data/
+runs/
+
+# optional
+*.pt
